@@ -1,0 +1,5 @@
+{
+  "name": "AI CSV Co-Pilot",
+  "description": "An AI-powered chatbot for CSV analysis. Upload a CSV, ask questions in natural language, and get smart answers with auto-generated visualizations like bar, line, and scatter charts.",
+  "requestFramePermissions": []
+}
